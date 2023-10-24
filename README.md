@@ -1,4 +1,4 @@
-# Dynamical-system-metrics<br>
+# Dynamical-system-metrics
 <br>
 The original code is matlab code, and python code is still given.<br>
 <br>
