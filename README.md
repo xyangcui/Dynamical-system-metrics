@@ -24,6 +24,7 @@ a given quantile.<br>
 
 The code is distributed under the CC BY-NC 3.0 license. You can find the full terms and conditions here: https://creativecommons.org/licenses/by-nc/3.0/<br>
 Please contact davide.faranda@cea.fr for more information.<br> 
+
 Whenever you use this code, please cite:<br>
 <br>
 Davide Faranda, Gabriele Messori, Pascal Yiou. 2020. Diagnosing concurrent drivers of weather extremes: application to hot and cold days in North America, <br>
