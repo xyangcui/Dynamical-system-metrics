@@ -1,6 +1,6 @@
 # Dynamical system metrics
 
-The original code is matlab code, and python code is still given.<br>
+The original code is matlab code, which is coded by Faranda.<br> A python code is still given.<br>
 <br>
 This package contains code to estimate the local dimension, persistence and co-recurrence of dynamical systems from time series. It contains two main scripts and three
 auxiliary functions.<br>
