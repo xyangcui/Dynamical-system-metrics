@@ -18,8 +18,8 @@ Auxiliary functions:<br>
 
 -fun_dynsys_univariate_analysis.m : Computation of local dimensions and persistence for each point along a trajectory x, for a given quantile.<br>
 
--fun_dynsys_bivariate_analysis.m : Computation of local dimensions, persistence, co-dimensions, co-persistence, co-recurrences for each point along a trajectory x, for<br> 
-a given quantile.<br>
+-fun_dynsys_bivariate_analysis.m : Computation of local dimensions, persistence, co-dimensions, co-persistence, co-recurrences for each point along a trajectory x, a given quantile.<br> 
+<br>
 
 -fun_extremal_index_sueveges : This function computes the extremal index for a time series.<br> 
 
