@@ -1,4 +1,9 @@
-# Dynamical-system-metrics
+# Dynamical-system-metrics<br>
+<br>
+The original code is matlab code, and python code is still given.<br>
+<br>
+This package contains code to estimate the local dimension, persistence and co-recurrence of dynamical systems from time series. It contains two main scripts and three
+auxiliary functions.<br>
 Whenever you use this code, please cite:<br>
 <br>
 Davide Faranda, Gabriele Messori, Pascal Yiou. 2020. Diagnosing concurrent drivers of weather extremes: application to hot and cold days in North America, <br>
