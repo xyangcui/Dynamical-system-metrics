@@ -59,8 +59,8 @@ x_lonlat = np.array(x_lonlat)
 y_lonlat = np.array(y_lonlat)
 # Define time, lon, and lat
 time = xf['time']
-lon  = xf['lat']
-lat  = xf['lon']
+lon  = xf['lon']
+lat  = xf['lat']
 
 # Reshape tensors to obtain time * space matrices
 x = x_lonlat.reshape(len(time), len(lon) * len(lat))
