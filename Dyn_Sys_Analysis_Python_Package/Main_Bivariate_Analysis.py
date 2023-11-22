@@ -1,6 +1,8 @@
+import os
+
 import numpy as np
 import xarray as xr
-import os
+
 from fun_dynsys_bivariate_analysis import fun_dynsys_bivariate_analysis
 
 """

@@ -1,6 +1,8 @@
+import os
+
 import numpy as np
 import xarray as xr
-import os
+
 from fun_dynsys_univariate_analysis import fun_dynsys_univariate_analysis
 
 """
@@ -54,8 +56,8 @@ x_lonlat = np.array(x_lonlat)
 
 # Define time, lon, and lat
 time = xf['time']
-lon  = xf['lon']
-lat  = xf['lat']
+lon  = xf['lat']
+lat  = xf['lon']
 
 # Reshape tensors to obtain time * space matrices
 x = x_lonlat.reshape(len(time), len(lon) * len(lat))
