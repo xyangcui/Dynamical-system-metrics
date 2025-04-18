@@ -37,3 +37,5 @@ doi: 10.1038/srep41278<br>
 For the estimator of the persistence, please cite:<br>
 <br>
 Süveges, Mária. 2007. Likelihood estimation of the extremal index. Extremes, 10.1-2, 41-55, doi: 10.1007/s10687-007-0034-2
+<br>
+![figure](382_2019_5106_Fig1_HTML.webp)
